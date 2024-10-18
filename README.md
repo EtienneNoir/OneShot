@@ -12,3 +12,5 @@ While this is not an ATM application, the model serves as a proof of concept tha
 By focusing on similarity rather than classification, the model can work with images from different datasets without needing to be re-trained to classify them. Although fine-tuning may still be required, the current version of the model is capable of differentiating less complex images effectively.
 
 The key aspect of this model is measuring image similarity through distance values, which indicate how well the model distinguishes between different or similar images.
+
+**Please run the code on Kaggle to be able to have access to the same dataset that I used**
